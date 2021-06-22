@@ -3,8 +3,8 @@
   "version": "0.0.2",
   "description": "This is a plugin for content import and export.",
   "strapi": {
-    "name": "Content Export & Import",
-    "icon": "plug",
+    "name": "Export to CSV",
+    "icon": "list",
     "description": "Description of content-export-import plugin."
   },
   "scripts": {
