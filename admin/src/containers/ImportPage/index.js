@@ -22,7 +22,7 @@ const ImportPage = () => {
     <div className="container-fluid" style={{padding: "18px 30px"}}>
       <PluginHeader
         title="Import Content"
-        description={pluginId + " / Import data from file"}
+        description={"Import data from file"}
       />
       <Nav/>
       <MainDiv>
