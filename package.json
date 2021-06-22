@@ -1,5 +1,5 @@
 {
-  "name": "strapi-plugin-content-export-import",
+  "name": "content-export-import",
   "version": "0.0.2",
   "description": "This is a plugin for content import and export.",
   "strapi": {
