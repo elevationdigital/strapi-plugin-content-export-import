@@ -32,7 +32,7 @@ const ExportPage = () => {
     <div className="container-fluid" style={{padding: "18px 30px"}}>
       <PluginHeader
         title="Export Content"
-        description={pluginId + " / Export content to file"}
+        description={"Export content to file"}
       />
       <Nav/>
       <MainDiv>
